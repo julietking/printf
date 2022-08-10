@@ -1,4 +1,4 @@
-#incle "main.h"
+#include "main.h"
 
 /****************** PRINT POINTER ******************/
 /**
